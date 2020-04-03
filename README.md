@@ -1,8 +1,6 @@
 # حارس
 
 
-It is a simple tool that was built using the python language through which you can enable or deactivate the protection of the personal photo on facebook.
-
 ### install
 ```
 apt update
